@@ -1,0 +1,17 @@
+{
+ "name": "Saez Rosas & Co.",
+ "short_name": "Saez Rosas",
+ "description": "Inmobiliaria industrial y corporativa en Perú",
+ "start_url": "/",
+ "display": "browser",
+ "lang": "es-PE",
+ "background_color": "#0B1B32",
+ "theme_color": "#0B1B32",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  }
+ ]
+}
